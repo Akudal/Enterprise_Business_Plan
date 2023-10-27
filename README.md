@@ -10,8 +10,8 @@ Skyvion aims to fill this gap in the market by offering a self-balancing road bi
 Skyvion's financial analysis shows a continuous upward trend in sales revenue over the course of 5 years, with the exception of a slight dip in sales and order count in Year 5, Quarter 1. The company was able to achieve the minimum targets for net profits and net assets in Year 2, and exceeded the target for average sales count. In Year 5, Skyvion surpassed the minimum target for net profits and exceeded the level 3 targets for average sales count and net assets. The company's total assets increased from £850,288 in Year 1 to £5,214,009 in Year 5. Skyvion's projected revenue for the first year of operation is $15 million, with a net profit of $3.75 million. The company plans to reinvest a portion of its profits into research and development to continue improving its product and expanding its market share.
 
 ## Key Skills:
-1. Market Research\
-2. Financial Analysis\
-3. Strategic Planning\
-4. Communication\
+1. Market Research
+2. Financial Analysis
+3. Strategic Planning
+4. Communication
 5. Problem Solving
